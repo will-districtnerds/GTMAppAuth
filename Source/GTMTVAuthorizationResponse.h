@@ -18,7 +18,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import "OIDAuthorizationResponse.h"
+#import <AppAuth/OIDAuthorizationResponse.h>
+//#import "OIDAuthorizationResponse.h"
 
 @class GTMTVAuthorizationRequest;
 @class OIDTokenRequest;

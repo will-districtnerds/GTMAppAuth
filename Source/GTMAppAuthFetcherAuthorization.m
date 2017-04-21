@@ -18,7 +18,8 @@
 
 #import "GTMAppAuthFetcherAuthorization.h"
 
-#import "AppAuth.h"
+#import <AppAuth/AppAuth.h>
+//#import "AppAuth.h"
 
 #define GTMOAuth2AssertValidSelector GTMBridgeAssertValidSelector
 

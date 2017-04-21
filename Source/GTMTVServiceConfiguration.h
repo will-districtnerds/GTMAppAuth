@@ -16,7 +16,8 @@
         limitations under the License.
  */
 
-#import "OIDServiceConfiguration.h"
+#import <AppAuth/OIDServiceConfiguration.h>
+//#import "OIDServiceConfiguration.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

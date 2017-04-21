@@ -19,11 +19,8 @@
 #import "GTMTVServiceConfiguration.h"
 
 #import <AppAuth/OIDDefines.h>
-//#import "OIDDefines.h"
 #import <AppAuth/OIDErrorUtilities.h>
-//#import "OIDErrorUtilities.h"
 #import <AppAuth/OIDServiceDiscovery.h>
-//#import "OIDServiceDiscovery.h"
 
 /*! @brief The key for the @c TVAuthorizationEndpoint property.
  */

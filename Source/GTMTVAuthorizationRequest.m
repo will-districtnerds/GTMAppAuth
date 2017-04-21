@@ -19,9 +19,7 @@
 #import "GTMTVAuthorizationRequest.h"
 
 #import <AppAuth/OIDScopeUtilities.h>
-//#import "OIDScopeUtilities.h"
 #import <AppAuth/OIDURLQueryComponent.h>
-//#import "OIDURLQueryComponent.h"
 #import "GTMTVServiceConfiguration.h"
 
 @implementation GTMTVAuthorizationRequest
